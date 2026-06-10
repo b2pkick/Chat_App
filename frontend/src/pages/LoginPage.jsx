@@ -108,7 +108,7 @@ const LoginPage = () => {
           </form>
         </div>
         <div className='flex gap-7 text-xl sm:text-2xl'>
-          <h2 className=' text-white'>Dont't Have A Account??</h2>
+          <h2 className=' text-white'>Don't Have A Account??</h2>
           <Link to={"/signup"} className=' text-white'>SignUppppp</Link>
         </div>
         </div>
