@@ -150,16 +150,6 @@ npm run dev
 
 ---
 
-## Future Improvements
-
-- Typing indicators
-- Message timestamps
-- Read receipts
-- Group chats
-- Message reactions
-
----
-
 ## Author
 
 Rahul Gupta
