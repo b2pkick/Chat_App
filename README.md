@@ -13,7 +13,7 @@ Frontend
 https://echo-eight-xi.vercel.app
 
 Backend  
-https://echo-production-cc43.up.railway.app
+https://echo-ix6i.onrender.com
 
 ---
 
