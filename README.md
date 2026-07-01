@@ -52,7 +52,7 @@ https://echo-production-cc43.up.railway.app
 
 ### Deployment
 - Frontend → Vercel
-- Backend → Railway
+- Backend → Render
 
 ---
 
